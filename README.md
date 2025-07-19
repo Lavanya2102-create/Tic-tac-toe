@@ -1,6 +1,7 @@
 🎮 **Tic Tac Toe – Smart Web App**
-An advanced and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript — designed with clean UI, intelligent gameplay, and mobile responsiveness in mind.
 
+An advanced and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript — designed with clean UI, intelligent gameplay, and mobile responsiveness in mind.
+---
 🛠 Built with: HTML, CSS, JavaScript  
 📱 Fully responsive & mobile-friendly  
 🧠 Player vs Bot (AI) + 2-Player mode  
