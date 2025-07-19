@@ -26,7 +26,6 @@ This isn’t just a checklist — it’s a **productivity assistant**.
 📌 Drag-and-drop task reordering  
 📌 Better install UX as PWA (one-tap on mobile)
 
----
 
 💬 *"This started as a basic to-do list, but with every line of code — it grew into something smarter, cleaner, and more real. I'm learning. I'm building. I'm growing."*  
 
