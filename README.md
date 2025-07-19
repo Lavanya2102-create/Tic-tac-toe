@@ -9,8 +9,7 @@ This isn’t just a checklist — it’s a **productivity assistant**.
 ✅ Set Date, Time ⏰ (with AM/PM support)  
 ✅ Set Task Priority 🔴 🟡 🔵  
 ✅ Countdown timer ⌛  
-✅ Auto-sort by due time  
-✅ Search & Filter tasks  
+✅ Auto-sort by due time   
 ✅ Progress Tracker 📊  
 ✅ Push Notifications (Due + 10 mins before)   
 
