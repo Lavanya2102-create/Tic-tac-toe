@@ -1,30 +1,44 @@
-🎮 **Tic Tac Toe – Smart Web App**
+# 📱 To-Do Web App 
 
-An advanced and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript — designed with clean UI, intelligent gameplay, and mobile responsiveness in mind.
+A clean, responsive, and fully functional To-Do Web App — made using HTML, CSS, JavaScript, and deployed via **Netlify**.  
+This isn’t just a checklist — it’s a **productivity assistant**.
+
 ---
-🛠 Built with: HTML, CSS, JavaScript  
-📱 Fully responsive & mobile-friendly  
-🧠 Player vs Bot (AI) + 2-Player mode  
-✨ Features:  
-• Glowing winner effect  
-• Score tracker  
-• 3D hover + cloud animation  
-• Priority move timer  
-• Multi-language chat UI  
-• Touch optimized  
 
-🚀 Coming soon:  
-• PWA support (Installable app)  
-• Offline play  
-• Save score history  
-• Voice command moves  
-• Real-time multiplayer  
+### ✨ Core Features
+✅ Add, Edit, Delete tasks  
+✅ Set Date, Time ⏰ (with AM/PM support)  
+✅ Set Task Priority 🔴 🟡 🔵  
+✅ Countdown timer ⌛  
+✅ Auto-sort by due time  
+✅ Search & Filter tasks  
+✅ Progress Tracker 📊  
+✅ Push Notifications (Due + 10 mins before)   
 
-👨‍💻 My key takeaways:  
-→ Adaptive UI  
-→ Smart game logic  
-→ Responsive design  
-→ Creative animations
+---
 
-🔗 [https://tic-tac-toe-gameweb.netlify.app/]  
-💬 Drop feedback or suggestions!
+### 🚀 Deployed on Netlify
+🌐 [Live Demo](https://list-webapp.netlify.app/) 
+
+---
+
+### 🔮 Future Upgrades
+📌 Add recurring tasks (daily/weekly)  
+📌 Cloud sync (store in database)  
+📌 User authentication  
+📌 Voice command support 🎙  
+📌 Color themes (light/dark/custom)  
+📌 Reminder sounds 🎵  
+📌 Drag-and-drop task reordering  
+📌 Better install UX as PWA (one-tap on mobile)
+
+---
+
+💬 *"This started as a basic to-do list, but with every line of code — it grew into something smarter, cleaner, and more real. I'm learning. I'm building. I'm growing."*  
+
+#ReactJS 🔜 #Firebase 🔜 #Hackathons — here I come 🚀
+
+---
+
+👩‍💻 Built with pure frontend tech:  
+`HTML5` · `CSS3` · `Vanilla JavaScript` · `Progressive Web App` · `Netlify`
