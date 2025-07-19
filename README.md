@@ -22,13 +22,9 @@ This isn’t just a checklist — it’s a **productivity assistant**.
 
 ---
 
-### 🔮 Future Upgrades
-📌 Add recurring tasks (daily/weekly)  
+### 🔮 Future Upgrades  
 📌 Cloud sync (store in database)  
-📌 User authentication  
-📌 Voice command support 🎙  
-📌 Color themes (light/dark/custom)  
-📌 Reminder sounds 🎵  
+📌 User authentication   
 📌 Drag-and-drop task reordering  
 📌 Better install UX as PWA (one-tap on mobile)
 
