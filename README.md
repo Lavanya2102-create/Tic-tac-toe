@@ -33,7 +33,3 @@ This isn’t just a checklist — it’s a **productivity assistant**.
 
 #ReactJS 🔜 #Firebase 🔜 #Hackathons — here I come 🚀
 
----
-
-👩‍💻 Built with pure frontend tech:  
-`HTML5` · `CSS3` · `Vanilla JavaScript` · `Progressive Web App` · `Netlify`
