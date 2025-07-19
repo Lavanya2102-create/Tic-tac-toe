@@ -6,7 +6,6 @@ This isn’t just a checklist — it’s a **productivity assistant**.
 ---
 
 ### ✨ Core Features
-✅ Add, Edit, Delete tasks  
 ✅ Set Date, Time ⏰ (with AM/PM support)  
 ✅ Set Task Priority 🔴 🟡 🔵  
 ✅ Countdown timer ⌛  
